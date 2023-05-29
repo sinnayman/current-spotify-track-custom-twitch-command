@@ -1,4 +1,6 @@
-# Add your own twitch custom command for viewers to get your currently playing spotify track
+# current-spotify-track-custom-twitch-command
+
+##Add your own twitch custom command for viewers to get your currently playing spotify track
 
 A quick and dirty go app to add a custom command in order to get the currently playing spotify track of the authed user.
 
